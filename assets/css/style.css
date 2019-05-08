@@ -1,3 +1,60 @@
 * {
     margin: 0;
+    box-sizing: border-box;
+    content: width-960px;
+}
+
+body {
+}
+
+.menubar {
+    border: 1px solid black;
+}
+
+.menu {
+    border: 1px solid black;
+    max-width:960px;
+    margin: auto;
+}
+
+.main {
+    border: 1px solid black;
+    max-width:960px;
+    margin: auto;
+}
+
+.topdiv {
+    border: 1px solid black;
+    max-width:960px;
+    margin: auto;
+}
+
+.imgaside {
+    border: 1px solid black;
+    float: left;
+    width:25%;
+    height: 150px;
+    max-width:960px;
+    margin: auto;
+}
+
+.content {
+    border: 1px solid black;
+    float: right;
+    width:75%;
+    max-width:960px;
+    margin: auto;
+}
+
+.extracontent {
+    border: 1px solid black;
+    float: right;
+    max-width:960px;
+    margin: auto;
+}
+
+footer {
+    clear: both;
+    border: 1px solid black;
+    text-align: center;
 }
