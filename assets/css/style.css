@@ -49,28 +49,29 @@ nav h1 a {
 
 .main {
     max-width:960px;
+    height: 500px;
     margin: auto;
     clear: both;
     background-color: #fff;
 }
 
-.topdiv {
+.headshot {
+    width:30%;
 }
 
-.imgaside {
+img {
+    width: 100%;
+}
+
+.headshot {
     float: left;
-    width:30%;
-    height: 100px;
+    width: 30%;
 }
 
 .content {
     float: right;
     width:70%;
     height:50%;
-}
-
-.extracontent {
-    float: right;
 }
 
 footer {
