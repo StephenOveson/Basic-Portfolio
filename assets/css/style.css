@@ -16,7 +16,7 @@ header {
     background-color: #fff;
 }
 
-h1 h2 h3 h4 h5 h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
 }
@@ -95,6 +95,7 @@ img {
 
 .totalcontent{
 margin: auto;
+padding-right:10px;
 }
 
 .content {
