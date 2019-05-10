@@ -150,3 +150,32 @@ padding-right:10px;
 .img {
     border: 1px solid #ccc;
 }
+
+/* CSS Classes and IDs for contact page */
+
+form {
+    color: #777;
+    font-size: 20px;
+    width: 100%;
+    margin: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.formsubmit {
+    margin: 0px;
+}
+
+.textarea {
+    padding: 50px;
+}
+
+ .button {
+     background-color: #4aaaa5;
+     color: #fff;
+     padding:10px;
+ }
