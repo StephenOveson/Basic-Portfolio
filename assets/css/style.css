@@ -31,6 +31,10 @@ nav h1 a {
     color: #fff;
 }
 
+img {
+    width: 100%;
+}
+
 footer {
     clear: both;
     background-color: #666;
@@ -76,11 +80,10 @@ footer {
 
 .main {
     max-width:960px;
-    height: 475px;
+    height: 500px;
     margin: auto;
-    clear: both;
     background-color: #fff;
-    overflow: scroll;
+    overflow-y: scroll;
     border: 1px solid #ccc;
 }
 
@@ -98,7 +101,7 @@ hr {
     width:30%;
 }
 
-img {
+.img1 {
     width: 100%;
 }
 
