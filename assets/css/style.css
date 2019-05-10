@@ -132,3 +132,18 @@ padding-right:10px;
     color: white;
 }
 
+.txt {
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    transform: translate(-33%,-10%);
+    background-color: #4aaaa5;
+    width:87.5%;
+    padding: 10px;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+.img {
+    border: 1px solid #ccc;
+}
