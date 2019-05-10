@@ -108,6 +108,16 @@ padding-right:10px;
     width: 67%;
 }
 
+/* Portfolio Page Classes and IDs */
+.portfolio {
+    width:33%;
+    padding: 20px;
+    float: left;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
 footer {
     clear: both;
     background-color: #666;
