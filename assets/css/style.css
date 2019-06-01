@@ -123,6 +123,11 @@ padding-right:10px;
 }
 
 /* Portfolio Page Classes and IDs */
+
+div a {
+    color: white;
+}
+
 .portfolio {
     width:33%;
     padding: 20px;
